@@ -107,6 +107,7 @@ Mi meta es aplicar datos para generar insights accionables con impacto real.
 -Modelos predictivos simples
 -Stack: Python, SQL, Power BI
 -Logros: Pipeline integral desde cero.
+Para visitra el proyecto en https://github.com/FranciscoHillebrand/TrueShot
 
 📊 Adventure Works – Dashboard de Ventas y Logística
 
